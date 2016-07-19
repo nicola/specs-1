@@ -1,0 +1,34 @@
+Multihash
+
+Abstract
+  This document defines a .. to represent .. by self-describing.
+  It specifies a new hashing scheme, a way to map hashes to URI ..
+  The format is designed to support, but not require, ..
+  The reason for this work is to standardises current uses of hash functions and to support ..
+
+1. Introduction
+This specification defines multihash, ... Multihash is intended to be .
+Identifiers are used by various protocols .. Multihash solves three problems: interoperability, upgradeable hash functions, coincise self-description ..
+Different deployments have chosen different ways to include the hash function outputs in their identifier, resulting in interoperability problem
+
+Hash function outputs can be used for..
+
+2. Conventions
+
+3. Syntax
+
+4. Evaluation
+
+5. Formats (binary, machine readable)
+
+6. Error Handling
+
+7. Examples
+
+8. Security considerations
+
+9. Iana Considerations
+
+10. Acknowledgements
+
+11. References
